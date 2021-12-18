@@ -1,0 +1,17 @@
+.container {
+          max-width: 30rem;
+          padding: 0 1rem;
+          margin: 3rem auto 6rem;
+          border: 1px solid green;
+}
+
+.header {
+          display: flex;
+          font-display: column;
+          align-items: center;
+}
+
+
+.backToHome {
+          margin: 3rem 0 0;
+}
